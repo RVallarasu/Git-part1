@@ -12,4 +12,5 @@ git add <file name>
 git log
 git rm --stagged filename
 git checkout
-git push -u name branchname
+git push -u urlname branchname
+
